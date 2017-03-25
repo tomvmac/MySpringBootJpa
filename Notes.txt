@@ -1,0 +1,10 @@
+3/25/2017:
+
+Currently there are currently two ways to run and access this Spring Boot App.
+
+#1:  Run Main.java
+  a. Go to http://localhost:8080/api/models
+
+#2: mvn spring-boot:run
+  a. Go to http://localhost:8080/models
+  b. This requires the spring-boot-maven-plugin in maven pom.xml file.
